@@ -43,32 +43,6 @@ The project simulates and stores the following tables:
 
 ---
 
-## 🚀 How to Run Locally
-
-1. Clone the repo or download the files
-2. Ensure the following are in the same folder:
-   - `hospital_dashboard_app.py`
-   - `hospital_operations.db`
-3. Install required packages:
-```bash
-pip install streamlit pandas plotly
-```
-4. Run the app:
-```bash
-streamlit run hospital_dashboard_app.py
-```
-
----
-
-## 🌐 Optional: Deploy to Streamlit Cloud
-
-1. Push the project to GitHub
-2. Visit [https://streamlit.io/cloud](https://streamlit.io/cloud)
-3. Link your GitHub repo and set `hospital_dashboard_app.py` as the entry point
-4. Deploy your dashboard and share the link!
-
----
-
 ## 💼 Use Case
 
 This project is ideal for showcasing:

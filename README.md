@@ -81,4 +81,4 @@ This project is ideal for showcasing:
 
 ## 📬 Author
 
-Built by [Your Name] | [Your LinkedIn or Portfolio URL]
+Built by Micah Thornton | [[LinkedIN](https://www.linkedin.com/in/micah-thornton-134879294/)]

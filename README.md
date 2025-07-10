@@ -58,16 +58,6 @@ The project simulates and stores the following tables:
 
 ---
 
-## 💼 Use Case
-
-This project is ideal for showcasing:
-- Data modeling and SQL capabilities
-- Healthcare analytics insight
-- Dashboard development and KPI storytelling
-- Readiness for **Data Analyst** or **Healthcare Business Intelligence** roles
-
----
-
 ## 📬 Author
 
 Built by Micah Thornton | [[LinkedIN](https://www.linkedin.com/in/micah-thornton-134879294/)]

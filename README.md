@@ -1,6 +1,7 @@
 # 🏥 Hospital Operations Dashboard
 
 An interactive, full-stack data analytics dashboard designed to simulate real-world hospital performance monitoring. Built with **Streamlit**, **SQLite**, and **Plotly**, this project showcases ETL, SQL, and data visualization skills applied to healthcare operations.
+
 ![Screenshot 2025-07-09 165744](https://github.com/user-attachments/assets/12469edc-e37e-4f51-a5ef-dbd67d6ca079)
 
 
